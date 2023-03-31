@@ -2,6 +2,11 @@
 https://www.kaggle.com/c/instacart-market-basket-analysis  
 식료품 데이터를 가지고 EDA 진행
 
+# Files
+1. 각 상품별 구매시기와의 연관성
+2. 재구매비율을 토대로 class나누기 및 상품구매이력을 통한 군집화
+3. Apriori 알고리즘을 통한 연관분석
+
 # 회고
 
 - 이정진  
